@@ -1,0 +1,25 @@
+﻿@using WorkingWithMVC.Models
+@{
+    ViewBag.Title = "Action5";
+    MemberInfo m = new MemberInfo();
+    m.ID = "1";
+    m.Name = "Chris";
+    m.Type = "Administrator";
+    m.Contact.Address = "1234 Main St.";
+    m.Contact.City = "Brampton";
+    m.Contact.Email = "mauricic@sheridancollege.ca";
+}
+
+<h2>Action5</h2>
+<p>@ViewBag.Message</p>
+
+<table border="1">
+    <tr>
+        <td>@m.ID</td>
+        <td>@m.Name</td>
+        <td>@m.Type</td>
+        <td>@m.Contact.Address</td>
+        <td>@m.Contact.City</td>
+        <td>@m.Contact.Email</td>
+    </tr>
+</table>

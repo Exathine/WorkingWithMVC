@@ -1,0 +1,20 @@
+﻿@using WorkingWithMVC.Models
+@model MemberInfo
+
+@{
+    ViewBag.Title = "Action6";
+    MemberInfo m = Model;
+    
+}
+
+<h2>Action6</h2>
+<table border="1">
+    <tr>
+        <td>@m.ID</td>
+        <td>@m.Name</td>
+        <td>@m.Type</td>
+        <td>@m.Contact.Address</td>
+        <td>@m.Contact.City</td>
+        <td>@m.Contact.Email</td>
+    </tr>
+</table>

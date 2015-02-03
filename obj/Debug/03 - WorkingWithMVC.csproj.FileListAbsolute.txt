@@ -1,0 +1,26 @@
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\WorkingWithMVC.dll.config
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\WorkingWithMVC.dll
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\WorkingWithMVC.pdb
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\Antlr3.Runtime.dll
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\Newtonsoft.Json.dll
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\System.Web.Helpers.dll
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\System.Web.Mvc.dll
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\System.Web.Optimization.dll
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\System.Web.Razor.dll
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\System.Web.WebPages.dll
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\WebGrease.dll
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\System.Web.Helpers.xml
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\System.Web.Mvc.xml
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\System.Web.Optimization.xml
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\System.Web.Razor.xml
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\System.Web.WebPages.xml
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\Newtonsoft.Json.xml
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\obj\Debug\WorkingWithMVC.dll
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\obj\Debug\WorkingWithMVC.pdb
+C:\Users\Chrisirl\Documents\Visual Studio 2013\Projects\InClassSolutions\WorkingWithMVC\obj\Debug\03 - WorkingWithMVC.csprojResolveAssemblyReference.cache

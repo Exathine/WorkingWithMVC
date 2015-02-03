@@ -1,0 +1,22 @@
+﻿@using WorkingWithMVC.Models
+@model IEnumerable<MemberInfo>
+
+@{
+    ViewBag.Title = "Action7";
+}
+
+<h2>Action7</h2>
+<p>@ViewBag.Message</p>
+<table border="1">
+    @foreach (MemberInfo m in Model)
+    {
+        <tr>
+            <td>@m.ID</td>
+            <td>@m.Name</td>
+            <td>@m.Type</td>
+            <td>@m.Contact.Address</td>
+            <td>@m.Contact.City</td>
+            <td>@m.Contact.Email</td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,32 @@
+﻿@using WorkingWithMVC.Models
+@model NewArrivalVM
+
+@{
+    MemberInfo m = Model.Member;
+    IEnumerable<GameInfo> Games = Model.Games;
+    NewArrivalVM vm = Model;
+    ViewBag.Title = "Action8";
+}
+
+<h2>Action8</h2>
+<p>@ViewBag.Message</p>
+
+<table border="1">
+    <tr>
+        <td>@m.Name</td>
+        <td>@m.Type</td>
+        <td>@m.Contact.Address</td>
+        <td>@m.Contact.City</td>
+        <td>@m.Contact.Email</td>
+    <tr>
+</table>
+<br /><br />
+<table border="1">
+    @foreach (GameInfo g in Model.Games)
+    { 
+    <tr>
+        <td>@g.Title</td>
+        <td>@g.Price</td>
+    </tr>
+    }
+</table>
